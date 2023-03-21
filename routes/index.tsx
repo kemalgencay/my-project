@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
         <img
-          src="/static/zuzukemal.jpg"
+          src="/zuzukemal.jpg"
           class="w-32 h-32"
           alt="Zuzu Kemal"
         />
