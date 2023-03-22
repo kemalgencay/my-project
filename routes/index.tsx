@@ -27,7 +27,7 @@ export default function Home() {
         </p>
         <img
           src="/ogrenmek.jpg"
-          class="w-100 h-32"
+          class="w-50 h-32"
           alt="öğrenmek"
         />
       </div>
