@@ -14,10 +14,22 @@ export default function Home() {
           alt="Zuzu Kemal"
         />
         <p class="my-6">
-          Welcome to `fresh`. Try updating this message in the ./routes/index.tsx
-          file, and refresh.
+          <p>
+            <h5>
+              Ben Kemal, 1967'den beri <i>computer* </i>üstünde yenilikleri izliyor ve uyguluyorum.
+            </h5>
+            <p>
+              Çeşitli konulardaki görüşlerimi, deneyimlerimi, özlü sözleri, burada paylaşmaktayım. Çizgim Atatürk
+              çizgisidir, ikinci vazifemiz devrimleri Anadolu'ya yaymaktır.
+            </p>
+            <p> *bilgisayar değil, bilgi soyuttur sayılamaz</p>
+          </p>
         </p>
-        <Counter start={3} />
+        <img
+          src="/ogrenmek.jpg"
+          class="w-100 h-32"
+          alt="öğrenmek"
+        />
       </div>
     </>
   );
