@@ -10,7 +10,7 @@ export default function Home() {
       <div class="p-4 mx-auto max-w-screen-md">
         <img
           src="/zuzukemal.jpg"
-          class="w-40 h-32"
+          class="w-50 h-32"
           alt="Zuzu Kemal"
         />
         <p class="my-6">
@@ -22,7 +22,7 @@ export default function Home() {
               Çeşitli konulardaki görüşlerimi, deneyimlerimi, özlü sözleri, burada paylaşmaktayım. Çizgim Atatürk
               çizgisidir, ikinci vazifemiz devrimleri Anadolu'ya yaymaktır.
             </p>
-            <p> *bilgisayar değil, bilgi soyuttur sayılamaz</p>
+            <p> *bilgisayar değil, bilgi soyuttur sayılamaz.</p>
           </p>
         </p>
         <img
